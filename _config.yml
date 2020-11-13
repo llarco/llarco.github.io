@@ -3,11 +3,12 @@ email: luis@luislarco.com
 description: >-
   Software Engineer and Musician.
 baseurl: ""
-url: ""
+url: "https://luislarco.com"
 twitter_username: LuisLarco
 github_username:  llarco
 show_downloads: false
+logo: luislarco.jpg
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
