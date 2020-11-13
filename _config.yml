@@ -1,0 +1,13 @@
+title: Luis Larco
+email: luis@luislarco.com
+description: >-
+  Software Engineer and Musician.
+baseurl: ""
+url: ""
+twitter_username: LuisLarco
+github_username:  llarco
+show_downloads: false
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
