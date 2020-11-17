@@ -1,32 +1,45 @@
 # About Me
 
-I'm a software engineer at [Loon](https://loon.com), working in the [network
+My name is Luis Larco and I am from Lima, Perú, currently living in the San Francisco Bay Area in California, USA. I'm a software engineer at [Loon](https://loon.com), working in the [network
 orchestration](https://loon.com/solutions/network-orchestration/) team.
+
+I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping, road tripping, and playing guitar and bass.
+
+[[instagram](https://www.instagram.com/luislarco/)]
+[[facebook](https://www.facebook.com/luis.larco)]
+[[twiiter](https://twitter.com/luislarco)]
+[[github](https://github.com/llarco)]
+[[linkedin](https://www.linkedin.com/in/luislarco)]
+[[youtube](https://www.youtube.com/c/langelo91)]
+
+# Current Projects
+
+- Board Member @ [PeruSV](https://www.perusv.org/) [Lima, Perú & San Francisco, CA]
+- Conference Chair @ [TECHSUYO](https://www.techsuyo.org/) [San Francisco, CA]
 
 # Work Experience
 
-- Software Engineer @ Alphabet Inc. [Jul 2015-Present]
-  - Loon [May 2020-Present, Mountain View, CA]
-    - Network Orchestration
-  - Makani [Mar 2019-May 2020, Alameda, CA]
+- Software Engineer @ [Alphabet Inc.](https://abc.xyz/)  [Jul 2015-Present]
+  - [Loon](https://loon.com) [May 2020-Present, Mountain View, CA]
+    - [Network Orchestration](https://loon.com/solutions/network-orchestration/)
+  - [Makani](https://www.x.company/projects/makani/) [Mar 2019-May 2020, Alameda, CA]
     - Control System and Software Infrastructure
-  - Google [Jul 2015-Mar 2019, Mountain View, CA]
-    - Google Brain / AI Healthcare
-    - Street View
-    - Google[x] / Makani
-    - Android Things
-- Computer Science Instructor @ California State University-Fullerton [Aug 2018-Dec 2018, Fullerton, CA]
-- Software Engineering Intern @ GE Healthcare [May 2014-Jun 2015, Milwaukee, WI]
-- Associate Researcher @ Illinois Institute of Technology [Nov 2011-Jun 2015, Chicago, IL]
-- Teaching Assistant @ Illinois Institute of Technology [Aug 2013-Dec 2014, Chicago, IL]
-- Software Engineering Intern @ UBS [Jun 2013-Aug 2013, Chicago, IL]
-
+  - [Google](https://about.google/) [Jul 2015-Mar 2019, Mountain View, CA]
+    - [Google Brain](https://research.google/teams/brain/) / [AI Healthcare](https://health.google/)
+    - [Street View](https://developers.google.com/streetview/publish)
+    - [Google[x]](https://www.x.company/) / [Makani](https://www.x.company/projects/makani/)
+    - [Android Things](https://developer.android.com/things)
+- [Computer Science Instructor](http://news.fullerton.edu/2018/11/google-luis-larco/) @ [CSU-Fullerton](http://www.fullerton.edu/) [Aug 2018-Dec 2018, Fullerton, CA]
+- Software Engineering Intern @ [GE Healthcare](https://www.gehealthcare.com/) [May 2014-Jun 2015, Milwaukee, WI]
+- Associate Researcher @ [Illinois Institute of Technology](https://www.iit.edu/) [Nov 2011-Jun 2015, Chicago, IL]
+- Teaching Assistant @ [Illinois Institute of Technology](https://www.iit.edu/) [Aug 2013-Dec 2014, Chicago, IL]
+- Software Engineering Intern @ [UBS](https://www.ubs.com/us/en.html) [Jun 2013-Aug 2013, Chicago, IL]
 
 # Education
 
-- Illinois Institute of Technology [2011-2015]
+- [Illinois Institute of Technology](https://www.iit.edu/) [2011-2015]
   - BS Electrical Engineering
   - BS Computer Engineering
   - Minor in Applied Mathematics
-- Miami Dade College [2009-2011]
+- [Miami Dade College](https://mdc.edu/) [2009-2011]
   - AA Computer Engineering
