@@ -1,7 +1,6 @@
 # About Me
 
-My name is Luis Larco and I am from Lima, Perú, currently living in the San Francisco Bay Area in California, USA. I'm a software engineer at [Loon](https://loon.com), working in the [network
-orchestration](https://loon.com/solutions/network-orchestration/) team.
+My name is Luis Larco and I am from Lima, Perú, currently living in the San Francisco Bay Area in California, USA. I'm a software engineer at [X, the moonshot factory](https://x.company/), working in the [Project Taara](https://x.company/projects/taara/) team.
 
 I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping, road tripping, and playing guitar and bass.
 
@@ -20,7 +19,9 @@ I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping
 # Work Experience
 
 - Software Engineer @ [Alphabet Inc.](https://abc.xyz/)  [Jul 2015-Present]
-  - [Loon](https://loon.com) [May 2020-Present, Mountain View, CA]
+  - [X](https://x.company/) [Mar 2021-Present, Mountain View, CA]
+    - [Project Taara](https://x.company/projects/taara/) 
+  - [Loon](https://loon.com) [May 2020-Mar 2021, Mountain View, CA]
     - [Network Orchestration](https://loon.com/solutions/network-orchestration/)
   - [Makani](https://www.x.company/projects/makani/) [Mar 2019-May 2020, Alameda, CA]
     - Control System and Software Infrastructure
