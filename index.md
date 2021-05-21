@@ -1,6 +1,6 @@
 # About Me
 
-My name is Luis Larco and I am from Lima, Perú, currently living in the San Francisco Bay Area in California, USA. I'm a software engineer at [X, the moonshot factory](https://x.company/), working in the [Project Taara](https://x.company/projects/taara/) team.
+My name is Luis Larco and I am from Lima, Perú, currently living in the Denver, Colorado, USA. I'm a software engineer at [X, the moonshot factory](https://x.company/), working in the [Project Taara](https://x.company/projects/taara/) team.
 
 I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping, road tripping, and playing guitar and bass.
 
@@ -14,7 +14,7 @@ I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping
 # Current Projects
 
 - Board Member @ [PeruSV](https://www.perusv.org/) [Lima, Perú & San Francisco, CA]
-- Conference Chair @ [TECHSUYO](https://www.techsuyo.org/) [San Francisco, CA]
+- Lead @ [TECHSUYO](https://www.techsuyo.org/) [San Francisco, CA]
 
 # Work Experience
 
