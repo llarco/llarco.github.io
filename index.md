@@ -6,7 +6,7 @@ I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping
 
 [[instagram](https://www.instagram.com/luislarco/)]
 [[facebook](https://www.facebook.com/luis.larco)]
-[[twiiter](https://twitter.com/luislarco)]
+[[twitter](https://twitter.com/luislarco)]
 [[github](https://github.com/llarco)]
 [[linkedin](https://www.linkedin.com/in/luislarco)]
 [[youtube](https://www.youtube.com/c/langelo91channel/)]
