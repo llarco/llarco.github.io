@@ -1,6 +1,6 @@
 # About Me
 
-My name is Luis Larco and I am from Lima, Perú, currently living in the San Francisco, California, USA. I'm a software engineer at [X, the moonshot factory](https://x.company/), working in the [Project Taara](https://x.company/projects/taara/) team.
+My name is Luis Larco and I am from Lima, Perú, currently living in the San Francisco, California, USA. I'm a senior software engineer at [X, the moonshot factory](https://x.company/), working in the [Project Taara](https://x.company/projects/taara/) team.
 
 I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping, road tripping, and playing guitar and bass.
 
@@ -18,7 +18,7 @@ I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping
 
 # Work Experience
 
-- Software Engineer @ [Alphabet Inc.](https://abc.xyz/)  [Jul 2015-Present]
+- Senior Software Engineer @ [Alphabet Inc.](https://abc.xyz/)  [Jul 2015-Present]
   - [X](https://x.company/) [Mar 2021-Present, Mountain View, CA]
     - [Project Taara](https://x.company/projects/taara/) 
   - [Loon](https://loon.com) [May 2020-Mar 2021, Mountain View, CA]
