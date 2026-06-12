@@ -1,6 +1,6 @@
 # About Me
 
-My name is Luis Larco and I am from Lima, Perú, currently living in San Francisco, California, USA. I'm a senior software engineer at [Taara Connect](https://www.taaraconnect.com).
+My name is Luis Larco and I am from Lima, Perú, currently living in San Francisco, California, USA. I'm a principal software engineer at [Taara Connect](https://www.taaraconnect.com).
 
 I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping, road tripping, and playing guitar and bass.
 
@@ -18,7 +18,7 @@ I enjoy road biking, mountain biking, snowboarding, hiking, backpacking, camping
 
 # Work Experience
 
-- Senior Software Engineer @ [Taara Connect, Inc.](https://www.taaraconnect.com) [Mar 2025-Present, Sunnyvale, CA]
+- Principal Software Engineer @ [Taara Connect, Inc.](https://www.taaraconnect.com) [Mar 2025-Present, Sunnyvale, CA]
 - Senior Software Engineer @ [Alphabet, Inc.](https://abc.xyz/)  [Jul 2015-Mar 2025]
   - [X](https://x.company/) [Mar 2021-Mar 2025, Mountain View, CA]
     - [Project Taara](https://x.company/projects/taara/) 
